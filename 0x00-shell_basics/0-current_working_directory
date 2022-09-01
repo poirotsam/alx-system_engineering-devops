@@ -1,0 +1,4 @@
+!/bin/sh
+
+echo "The Current Directory is"
+echo $PWD
